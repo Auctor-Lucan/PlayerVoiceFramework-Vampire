@@ -1,0 +1,1 @@
+This is a fork from Lunatic's Player Voice Framework, found at https://github.com/lunatic-gh/PlayerVoiceFramework. This is a separate development of an old version of the framework in wait for resumed development on the parent version. This fork may prove redunant in the future, and will then be removed in favor of Lunatic's version.
