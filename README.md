@@ -7,5 +7,4 @@ As according to Lunatic, the creator of Player Voice Framework: "This Mod is ess
 customization, with way less issues."
 
 ### Requirements:
-
-- SKSE -
+SKSE
