@@ -1,16 +1,11 @@
-# PlayerVoiceEvents
-
-This is basically my first SkyrimSE Mod, and something like my wet dream.
-This Repo will be way more up-to-date than the Official Mod-Page, however it will require you to build both the
-SKSE-Plugin, and to compile the Papyrus-Scripts.
-
-See the Mod-Page at [Nexusmods](https://www.nexusmods.com/skyrimspecialedition/mods/143616)
+# Player Voice Framework - Vampire
+This is a fork from Lunatic's Player Voice Framework, found at https://github.com/lunatic-gh/PlayerVoiceFramework. 
+As a separate development of an old version of the framework, it is released in wait for resumed development on the parent version. This fork may prove redunant in the future, and will then be removed in favor of Lunatic's version.
 <br>
 <br>
-<br>
-This Mod is essentially a modern replacement for both PCHT and Dragonborn Voice-Barks. It allows for way more
-customization, with way less issues.
+As according to Lunatic, the creator of Player Voice Framework: "This Mod is essentially a modern replacement for both PCHT and Dragonborn Voice-Barks. It allows for way more
+customization, with way less issues."
 
 ### Requirements:
 
-- SKSE - This mod is like 99% Based on SKSE. Requirement should be obvious...
+- SKSE -
