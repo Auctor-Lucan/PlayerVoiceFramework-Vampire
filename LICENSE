@@ -1,16 +1,12 @@
-MIT License
+PVF License
 
 Copyright (c) 2025 Lunatic
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+I like helping others however i can. So you can use any parts of this project, be it in paid or free projects.
+However i do wish you to:
+- Provide Credit and link to either the GitHub repo or the Mod-Page. Creating this has taken a lot my free time. I'm already fine with a simple "My project uses parts of PlayerVoiceFramework, see at <mod_url>"
+- Not use it for anything malicious. With "malicious" i mean things like malware, or programs that are otherwise intended to cause harm. I did not create this for those purposes.
+- Don't hold me accountable for anything that happens due to this project. I do this alone in my free time, i don't have a 100-Person QA Team. Bugs can and will happen.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
